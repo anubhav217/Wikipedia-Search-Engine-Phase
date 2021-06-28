@@ -1,4 +1,4 @@
-# WikiSearchEngine
+# WikiPedia Search Engine Phase
 A search engine to create index on wikipedia dump of around 50 GB and search efficiently with time constraint of 5 sec.
 <h1>The General Information regarding phase 1 and phase 2 can be found in read me and documents inside their folder<h1>
  <h2>Other imlementation wise info for final phase is as follows</h2>
